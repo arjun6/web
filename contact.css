@@ -1,0 +1,18 @@
+.one{
+	border:5px solid gainsboro;
+	margin:50px;
+	padding:25px;
+	width:450px;
+	background-color:gainsboro;
+}
+b{
+	color:gray;
+	font-size:18px;
+}
+label{
+	cursor:default;
+	font-size:16px;
+	font-weight:solid;
+	color:black;
+	position:left;
+}
